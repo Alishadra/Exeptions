@@ -11,7 +11,7 @@ public class ExceptionExample {
 			System.out.println(1/0);
 		} catch (ArithmeticException e) {
 			
-			System.err.println("Деление на 0 не возможно");
+			System.err.println("The split to 0 is not correct");
 		} 
 		
 	}
